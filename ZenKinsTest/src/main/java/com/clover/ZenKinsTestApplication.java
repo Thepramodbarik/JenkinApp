@@ -8,7 +8,7 @@ public class ZenKinsTestApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ZenKinsTestApplication.class, args);
-		System.out.println("Application Started...==111==...");
+		System.out.println("Application Started...==111222==...");
 	}
 
 }
